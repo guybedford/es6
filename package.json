@@ -1,0 +1,9 @@
+{
+  "name": "es6",
+  "volo": {
+    "url": "https://raw.github.com/guybedford/es6/{version}/es6.js",
+    "dependencies": {
+      "amd-loader": "guybedford/amd-loader"
+    }
+  }
+}

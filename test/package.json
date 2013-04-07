@@ -1,0 +1,7 @@
+{
+  "volo": {
+    "dependencies": {
+      "amd-loader": "github:guybedford/amd-loader/0.0.1"
+    }
+  }
+}
