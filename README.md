@@ -21,3 +21,12 @@ Needs AMD-Loader base plugin to work. This is automatically installed with Bower
 ```
   bower install es6
 ```
+
+When using bower, add the paths (or map) configuration:
+
+```javascript
+  paths: {
+    es6: 'es6/es6',
+    'amd-loader': 'amd-loader/amd-loader'
+  }
+```
