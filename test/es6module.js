@@ -1,8 +1,8 @@
-define(() => class cat {
+define(() => class myclass {
   constructor() {
-    console.log('meeow');
+    console.log('constructor');
   }
-  eat() {
-    throw new Error('asdf')
+  method() {
+    console.log('method');
   }
 });
