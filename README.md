@@ -12,7 +12,7 @@ For language features, see the [Traceur documentation](https://code.google.com/p
 Installation
 ---
 
-Needs AMD-Loader base plugin to work. This is automatically installed with Bower or Volo, otherwise it must be downloaded manually.
+Needs [AMD-Loader](https://github.com/guybedford/amd-loader) base plugin to work. This is automatically installed with Bower or Volo, otherwise it must be downloaded manually.
 
 ```
   volo add guybedford/es6
